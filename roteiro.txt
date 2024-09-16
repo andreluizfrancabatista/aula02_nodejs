@@ -1,0 +1,5 @@
+npm init -y
+npm install nodemon
+abre o package.json
+chave scripts, adiciona "start":"nodemon index.js"
+npm start
